@@ -1,0 +1,7 @@
+c:\users\темирбулата\source\repos\XMLParcerLesson\XMLParcerLesson\bin\Debug\XMLParcerLesson.exe.config
+c:\users\темирбулата\source\repos\XMLParcerLesson\XMLParcerLesson\bin\Debug\XMLParcerLesson.exe
+c:\users\темирбулата\source\repos\XMLParcerLesson\XMLParcerLesson\bin\Debug\XMLParcerLesson.pdb
+c:\users\темирбулата\source\repos\XMLParcerLesson\XMLParcerLesson\obj\Debug\XMLParcerLesson.csprojAssemblyReference.cache
+c:\users\темирбулата\source\repos\XMLParcerLesson\XMLParcerLesson\obj\Debug\XMLParcerLesson.csproj.CoreCompileInputs.cache
+c:\users\темирбулата\source\repos\XMLParcerLesson\XMLParcerLesson\obj\Debug\XMLParcerLesson.exe
+c:\users\темирбулата\source\repos\XMLParcerLesson\XMLParcerLesson\obj\Debug\XMLParcerLesson.pdb
